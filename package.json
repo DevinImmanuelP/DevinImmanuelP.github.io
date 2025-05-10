@@ -13,6 +13,9 @@
     "tailwindcss": "^3.4.3"
   },
   "dependencies": {
-    "portfolio": "file:"
+    "aos": "^2.3.4",
+    "i": "^0.3.7",
+    "portfolio": "file:",
+    "tailwindcss-motion": "^1.1.0"
   }
 }

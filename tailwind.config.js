@@ -17,6 +17,7 @@ module.exports = {
       }
     },
   },
-  plugins: [],
-}
+  plugins: [require('tailwindcss-motion')],
+};
+export default config;
 
